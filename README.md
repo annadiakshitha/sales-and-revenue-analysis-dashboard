@@ -1,2 +1,14 @@
-# sales-and-revenue-analysis-dashboard
-Sales and Revenue Analysis Dashboard provides interactive visualizations of sales performance, revenue trends, profit analysis, top-selling products, and regional insights. The dashboard helps identify business opportunities, monitor key metrics, and support data-driven decision-making through clear and actionable analytics.
+# Sales-Dashboard-Using-Power-BI
+
+* In this project, i have made a intractive Power BI Sales Dashboard on Global_super_store sales data and find some insights from the data. In order to building the dashboard the ETL process was done as per the requirements, Power query was used to clean and transform the data and DAX was used for creating the culculated measures and culculated column.
+* Once done with the culculations, i have made visualizations and create report using cards, charts, slicer etc.
+* Which help to easy understanding of the end-user and give meaningful insights.
+
+
+## Tools and Technology used-
+#### 1. Microsoft Power BI
+#### 2. MS Excel
+
+
+## Data Source used- 
+* Kaggle- https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
